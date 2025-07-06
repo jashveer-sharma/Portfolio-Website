@@ -17,7 +17,7 @@ const Hero = () => (
         while building impactful solutions
       </p>
       <a
-        href="/public/JashveerSharma-Portfolio.pdf"
+        href="/JashveerSharma-Portfolio.pdf"
         download
         className="your-button-styles mt-6 bg-green-500 px-5 py-2 rounded hover:bg-green-600 transition inline-block"
       >
