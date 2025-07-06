@@ -23,7 +23,7 @@ const Hero = () => (
       >
         Download Resume
       </a>
-    
+
     </div>
     <div className="md:w-1/2 mt-10 md:mt-0 flex justify-center">
       <div className="rounded-full border-4 border-green-500 p-1">
