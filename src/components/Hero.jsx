@@ -18,12 +18,12 @@ const Hero = () => (
       </p>
       <a
         href="/JashveerSharma-Portfolio.pdf"
-        download
-        className="your-button-styles mt-6 bg-green-500 px-5 py-2 rounded hover:bg-green-600 transition inline-block"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="mt-6 bg-green-500 px-5 py-2 rounded hover:bg-green-600 transition inline-block"
       >
-        Download Resume
+        View Resume
       </a>
-
     </div>
     <div className="md:w-1/2 mt-10 md:mt-0 flex justify-center">
       <div className="rounded-full border-4 border-green-500 p-1">
